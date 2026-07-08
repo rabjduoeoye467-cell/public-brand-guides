@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rabjduoeoye467-cell.github.io/public-brand-guides/sitemap.xml
